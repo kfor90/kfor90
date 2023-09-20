@@ -4,9 +4,9 @@ Hi 👋 My name is Keir Forster
 Software Developer
 -------------
 
-* 🌍  I'm based in Vancouver, British Columbia
+* 🌍  I'm based in San Francisco, California
 * ✉️  You can contact me at [keirforster@gmail.com](mailto:keirforster@gmail.com)
-* 🚀  I'm currently working on [Streamline Athletes](http://streamlineathletes.com)
+* 🚀  I'm currently working on [Aveva](https://www.aveva.com/en/)
 * 🧠  I'm learning AWS - Serverless (Lambda, API Gateway, S3, Cloudfront, DynamoDB, CDK)
 * 🤝  I'm open to collaborating on Projects
 
